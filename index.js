@@ -1,3 +1,17 @@
+/*
+api definition is provided in another file 
+env.js => please create an env.js file and 
+add your own credentials
+
+like
+
+const api = {
+    key: "your-api-key",
+    baseurl: "https://api.openweathermap.org/data/2.5",
+}
+
+*/
+
 // capture input element into js
 const searchbox = document.querySelector(".search-box")
 
